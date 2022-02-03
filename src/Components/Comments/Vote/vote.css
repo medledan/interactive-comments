@@ -3,7 +3,10 @@
   border-radius: 0.25rem;
   display: flex;
   flex-direction: column;
-  height: 8rem;
+  height: 11.5rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 .voting__button {

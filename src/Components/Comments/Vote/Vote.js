@@ -4,15 +4,10 @@ import './vote.css';
 export const Vote = () => {
   return (
     <div className="voting">
-      {/* <!-- Up button --> */}
       <button className="voting__button">
         <div className="voting__triangle voting__triangle--up"></div>
       </button>
-
-      {/* <!-- Number --> */}
-      <div className="voting__number">...</div>
-
-      {/* <!-- Down button --> */}
+      <div className="voting__number">12</div>
       <button className="voting__button">
         <div className="voting__triangle voting__triangle--down"></div>
       </button>

@@ -2,7 +2,14 @@
   background-color: var(--White);
 }
 
-.comment-avatar--img {
-  width: 10%;
-  height: auto;
+.card-title {
+  font-size: 20px;
+}
+
+.comment-time-text {
+  font-size: 20px;
+}
+
+.test {
+  margin-left: 1rem;
 }
