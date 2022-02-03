@@ -1,0 +1,8 @@
+.comment-container {
+  background-color: var(--White);
+}
+
+.comment-avatar--img {
+  width: 10%;
+  height: auto;
+}
